@@ -11,6 +11,12 @@ Test Cases Covered:
 Website Used:
 https://the-internet.herokuapp.com/login
 
+### Test Login Instructions
+To test the login system, use the following credentials:
+
+**Username:** testuser  
+**Password:** test123
+
 Author:
 Arijit Panda
 Software Testing Intern – Prodigy InfoTech
